@@ -1,0 +1,15 @@
+{
+    "name": "me/bharat-bank",
+    "authors": [
+        {
+            "name": "bharath",
+            "email": "95869784+bharathallah786@users.noreply.github.com"
+
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Bank\\": "src"
+        }
+    }
+}
